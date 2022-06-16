@@ -10,5 +10,7 @@ What need to be done?
 
 The Ebay.php class has examples of methods how it should like.
 
+Please use this as a reference how we would like it to be : https://github.com/davidtsadler/ebay-sdk-php/tree/master/src/Inventory
+
 You dont have to worry about Auth and Token, just make sure to add Comment where Token must be set and called.
 
