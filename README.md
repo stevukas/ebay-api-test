@@ -14,3 +14,4 @@ Please use this as a reference how we would like it to be : https://github.com/d
 
 You dont have to worry about Auth and Token, just make sure to add Comment where Token must be set and called.
 
+If you have any questions, please reach out to mustafa@simplecellinc.com
