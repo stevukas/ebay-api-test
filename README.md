@@ -8,7 +8,7 @@ What need to be done?
 
 3- Make sure to create public methods to allow other parts of the app to submit products to ebay and obey Required & optional fields.
 
-The Ebay.php class has examples of methods how it should like.
+The Ebay.php class has examples of methods how it should look alike.
 
 Please use this as a reference how we would like it to be : https://github.com/davidtsadler/ebay-sdk-php/tree/master/src/Inventory
 
